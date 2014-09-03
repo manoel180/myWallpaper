@@ -1,0 +1,8 @@
+c:\users\manoel.neto\documents\visual studio 2013\Projects\wallpaper\wallpaper\bin\Debug\wallpaper.exe.config
+c:\users\manoel.neto\documents\visual studio 2013\Projects\wallpaper\wallpaper\bin\Debug\wallpaper.exe
+c:\users\manoel.neto\documents\visual studio 2013\Projects\wallpaper\wallpaper\bin\Debug\wallpaper.pdb
+c:\users\manoel.neto\documents\visual studio 2013\Projects\wallpaper\wallpaper\obj\Debug\wallpaper.exe
+c:\users\manoel.neto\documents\visual studio 2013\Projects\wallpaper\wallpaper\obj\Debug\wallpaper.pdb
+c:\users\manoel.neto\documents\visual studio 2013\Projects\wallpaper\wallpaper\obj\Debug\wallpaper.csprojResolveAssemblyReference.cache
+c:\users\manoel.neto\documents\visual studio 2013\Projects\wallpaper\wallpaper\obj\Debug\wallpaper.Properties.Resources.resources
+c:\users\manoel.neto\documents\visual studio 2013\Projects\wallpaper\wallpaper\obj\Debug\wallpaper.csproj.GenerateResource.Cache
